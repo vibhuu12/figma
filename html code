@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <section class="main-section">
+        <nav class="nav-bar">
+            <div class="logo">
+                <img src="./assets/logo.png" alt="logo">
+            </div>
+            <div class="sign">
+                <button>Sign Up</button>
+            </div>
+        </nav>
+        <div class="body-upper">
+            <div class="body-body">
+               <div>
+                    <h1 class="heading">Connects With Certified <br> IT Vendors in minutes.</h1> 
+                    <p class="para">
+                        Join ConQt today and gainan extention networl of vendors,  <br>
+                        cutting-edge solutions,and streamlined transactions.
+                    </p>
+                    <button>Sign Up</button>
+               </div>
+               <div class="body-right">
+                    <div class="card1">
+                        <h3>Projects</h3><br>
+                        <h4 style="color: green;"><i class="fa-solid fa-circle-check"></i>  on track</h4>
+                    </div>
+                    <img src="./assets/pic.avif" width="90%">
+                    <div class="card">
+                        <h4>Total customers</h4><br>
+                        <h1>2420</h1><br>
+                        <p>
+                            <i class="fa-sharp fa-solid fa-arrow-up"> 40% </i> <big> vs last month </big> 
+                            <i class="fa fa-chart-line fa-2xl"></i>
+                        </p>
+                    </div>
+               </div>
+            </div>
+        </div>
+    </section>
+    <div class="body-2">
+        <div class="main-section">
+            <h1 class="body2-heading">How ConQt Helps You Select the Perfect Vender</h1>
+            <div class="card-body">
+                <div class="body2-card">
+                    <p>
+                        Simply provide us with the essential details about your project, 
+                        goals, and budget. Our user-friendly platform makes it effortless to 
+                        outline your requirements. Sit back and let us take it from there.
+                    </p>
+                </div>
+                <div class="body2-card">
+                    <p>
+                        Leave the time-consuming task of quotation analysis to us. 
+                        We extract and present the key information in a clear and concise manner, 
+                        enabling you to make an informed decision with ease.
+                    </p>
+                </div>
+            </div>
+            <div class="arrow-body">
+                <div class="arrow">
+                    <h3>Create your project</h3>
+                </div>
+                <div class="arrow">
+                    <h3>Receive vendors quotation</h3>
+                </div>
+                <div class="arrow">
+                    <h3>analyze quotation</h3>
+                </div>
+                <div class="arrow">
+                    <h3>Select your vendor</h3>
+                </div>  
+            </div>
+            <div class="card-body">
+                <div class="body2-card">
+                    <p>
+                        Simply provide us with the essential details about your project, 
+                        goals, and budget. Our user-friendly platform makes it effortless to 
+                        outline your requirements. Sit back and let us take it from there.
+                    </p>
+                </div>
+                <div class="body2-card">
+                    <p>
+                        Leave the time-consuming task of quotation analysis to us. 
+                        We extract and present the key information in a clear and concise manner, 
+                        enabling you to make an informed decision with ease.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="body-3 main-section">
+        <div class="body3-body">
+            <h1>Effortless IT Projects</h1>
+            <p>
+                At ConQT, we handle much of the process, making it hassle-free for you. 
+                Our platform's advanced features, automated processes, and expert guidance ensure that 
+                you can sit back and relax while we manage the complexities. 
+                Focus on your core business while we take care of the IT project journey..
+            </p>
+            <p>
+                Join ConQT today and experience how effortless it can be to create your project, 
+                receive vendor quotations, analyze them efficiently, and select the ideal IT vendor. 
+                Let us simplify your IT project journey, so you can save valuable time and resources.
+            </p>
+            <button>Sign Up Now</button>
+        </div>
+        <div>
+            <img src="./assets/copy.png" alt="">
+        </div>
+    </div>
+    <div class="body-4">
+        <div class="main-section">
+            <div class="border">
+                <div class="border-heading">
+                    <h1>Questions? Contact our team at <br> info@ConQt.com or call us at</h1>
+                    <p>
+                        Follow  us on <a href="#">[LinkedIn]</a> fot the latest update and industry insights.
+                    </p>
+                </div>
+                <hr>
+                <div class="border-contact">
+                    <div class="cotact">
+                        <big>Singapore</big><br>
+                        <i class="fa-brands fa-whatsapp fa-xl"></i><small> +65 85 496 022</small>
+                    </div>
+                   <div class="cotact">
+                        <big>Thailand</big><br>
+                        <i class="fa-sharp fa-solid fa-phone"></i>
+                        <small> +65 85 496 022</small>
+                   </div>
+                   <div class="cotact">
+                        <big>India</big><br>
+                        <i class="fa-brands fa-whatsapp fa-xl"></i>
+                        <i class="fa-sharp fa-solid fa-phone"></i>
+                        <small> +65 85 496 022</small>
+                   </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
